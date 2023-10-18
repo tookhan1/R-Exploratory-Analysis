@@ -2,7 +2,7 @@
 This project helps demonstrate my skill and knowledge of R as well as my own analysis
 
 # R Competency
-## Here is what my project (and future projects) will demonstrate
+## Here is what my project (and future projects) will demonstrate:
 
 * R Studio
 * Data Types
